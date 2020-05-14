@@ -1,33 +1,119 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+x<!DOCTYPE html>
+<html lag="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content"width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content=ie=edge">
+    <title<REXMEX</title>
+    <link rel="shortcut icon" href="img/pumba.png" type=imagen/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+   <header>
+    <nav>
+     <a href="#">inicio</a>
+     <a href="#">acerca de</a>
+     <a href="#">sevicios</a>
+     <a href="#">contacto</a>
+     </nav>
+     <section class="texto-hader"
+     h1 {
+font-size: 36px;
+color: #000;
+font-family: 'Open Sans';
+}
+     <h1>REXMEX</h1>
+     </section>
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 293.73,-34.03 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #08f;"></path></svg></div>
+  </header>
+  <main>
+      <section class="contenedor sobre-nosotros">
+      <h2 class="titulo">nuestroproducto</h2>
+      <img src="img/" alt="" class="imagen-about-us">
+      <div class="contenidos-textos">
+       <h3><span>1</span>Los mejores productos</h3>
+       <p>lorem<p>
+       <div class="contenidos-textos">
+       <h3><span></span>Los mejores productos</h3>
+       <p>lorem<p>
+      </div>
+      </div>
+      </section>
+      <section class="portafolio">
+          <div class="contenedor">
+          <h2 class="titulo">portafolio</h2>
+          <div class="imagen-port">
+            <img src="" alt="">
+            <div class="hover-galeria">
+              <img src=""alt="">
+              <p>nuestro trabajo</p>
+            </div>
+          </div>
+           <div class="imagen-port">
+            <img src="" alt="">
+            <div class="hover-galeria">
+              <img src=""alt="">
+              <p>nuestro trabajo</p>
+            </div>
+          </div>
+           <div class="imagen-port">
+            <img src="" alt="">
+            <div class="hover-galeria">
+              <img src=""alt="">
+              <p>nuestro trabajo</p>
+            </div>
+          </div>
+           <div class="imagen-port">
+            <img src="" alt="">
+            <div class="hover-galeria">
+              <img src=""alt="">
+              <p>nuestro trabajo</p>
+            </div>
+          </div>
+           <div class="imagen-port">
+            <img src="" alt="">
+            <div class="hover-galeria">
+              <img src=""alt="">
+              <p>nuestro trabajo</p>
+            </div>
+          </div>
+        </section>
+        <section class="clientes contenedor">
+        <h2 class="titulo"<quedicen nuestros clientes</h2>
+        <div class="card">
+          <img src="img/face1.jpg" alt="">
+          <div class="contenido-texto-card">
+           <h4>name</h4>
+           <p>lorem10</p>
+        </div>
+        </section>
+        <section class="about-services">
+         <div class="contenedor">
+         <h2 class="titulo">nuestros sevicios</h2>
+         <div class"servicio-cont">
+         <div class="servicio-ind"
+           <img src="img/ilustracion1.svg" alt=""
+            <h3>name</h3>
+            <p>lorem10</p>
+         </div>
+          <div class="servicio-ind"
+           <img src="img/ilustracion2.svg" alt=""
+            <h3>name</h3>
+            <p>lorem10</p>
+         </div>
+          <div class="servicio-ind"
+           <img src="img/ilustracion3.svg" alt=""
+            <h3>name</h3>
+            <p>lorem10</p>
+         </div>
+  </main>
+  <foter>
+   <div class="contenedor-footer">
+      <div class="content-foo">
+        <h4>phone</h4>
+        <p>(55) 4347 7415
+(55) 4192 1651</p>
+   </div>
+  </foter>
+</body>
+</html>
