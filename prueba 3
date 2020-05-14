@@ -1,4 +1,4 @@
-x<!DOCTYPE html>
+<!DOCTYPE html>
 <html lag="es">
 <head>
     <meta charset="UTF-8">
@@ -8,40 +8,40 @@ x<!DOCTYPE html>
     <link rel="shortcut icon" href="img/pumba.png" type=imagen/x-icon">
     <link rel="stylesheet" href="css/estilos.css">
 </head>
-<body>
+<body
    <header>
     <nav>
-     <a href="#">inicio</a>
-     <a href="#">acerca de</a>
-     <a href="#">sevicios</a>
-     <a href="#">contacto</a>
+     <a href="">inicio</a>
+     <a href="https://rexmex.mx/nosotros-2/">acerca de </a>
+
+     <a href="https://rexmex.mx/productos/">sevicios</a>
+     <a href="https://rexmex.mx/contact/">contacto</a>
      </nav>
      <section class="texto-hader"
-     h1 {
-font-size: 36px;
-color: #000;
-font-family: 'Open Sans';
-}
+     
      <h1>REXMEX</h1>
      </section>
      <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 293.73,-34.03 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #08f;"></path></svg></div>
   </header>
   <main>
-      <section class="contenedor sobre-nosotros">
-      <h2 class="titulo">nuestroproducto</h2>
+      <section class="contenedor sobre nosotros">
+      <h2 class="titulo">nuestro producto</h2>
       <img src="img/" alt="" class="imagen-about-us">
-      <div class="contenidos-textos">
-       <h3><span>1</span>Los mejores productos</h3>
-       <p>lorem<p>
-       <div class="contenidos-textos">
+      <div class="contenidos textos">
        <h3><span></span>Los mejores productos</h3>
-       <p>lorem<p>
+       <p>Contenedores: Si pensamos en el envase desechable para alimentación perfecto lo primero que nos vendrá a la mente 
+       será la seguridad alimentaria, es decir, asegurarnos con total certeza de que el envase en cuestión 
+       mantenga inmutables las propiedades de los alimentos, que sea resistente a agentes contaminantes y minimice el impacto ambiental.<p>
+       <div class="contenidos textos">
+       <h3><span></span>Los mejores productos</h3>
+       <p>Vasos: Los vasos de PET están fabricados en tereftalato de polietileno. Su singularidad reside en su ligereza y alta resistencia a los impactos. 
+       Así pues, los vasos PET son resistentes a posibles fisuras, siendo difícil que se rompan.<p>
       </div>
       </div>
       </section>
       <section class="portafolio">
           <div class="contenedor">
-          <h2 class="titulo">portafolio</h2>
+          <h2 class="titulo">compra y venta</h2>
           <div class="imagen-port">
             <img src="" alt="">
             <div class="hover-galeria">
@@ -79,7 +79,7 @@ font-family: 'Open Sans';
           </div>
         </section>
         <section class="clientes contenedor">
-        <h2 class="titulo"<quedicen nuestros clientes</h2>
+        <h2 class="titulo"<que dicen nuestros clientes</h2>
         <div class="card">
           <img src="img/face1.jpg" alt="">
           <div class="contenido-texto-card">
