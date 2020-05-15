@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+	<html lag="es">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content"width=device-width, initial-scale=1.0">
+	    <meta http-equiv="X-UA-Compatible" content=ie=edge">
+	    <title<REXMEX</title>
+	    <link rel="shortcut icon" href="img/pumba.png" type=imagen/x-icon">
+	    <link rel="stylesheet" href="css/estilos.css">
+	</head>
+	<body
+	   <header>
+	    <nav>
+	     <a href="">inicio</a>
+	     <a href="https://rexmex.mx/nosotros-2/">acerca de </a>
+	
+
+	     <a href="https://rexmex.mx/productos/">sevicios</a>
+	     <a href="https://rexmex.mx/contact/">contacto</a>
+	     </nav>
+	     <section class="texto-hader"
+	     
+	     <h1>REXMEX</h1>
+	     <STYLE type="text/css">
+	  H1 { text-align: center}
+	 </STYLE>
+	<BODY>
+	 <H1>REXMEX</H1>
+	     </section>
+	     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 293.73,-34.03 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #08f;"></path></svg></div>
+	  </header>
+	  <main>
+	      <section class="contenedor sobre nosotros">
+	      <h2 class="titulo">nuestro producto</h2>
+	      <img src="img/" alt="" class="imagen-about-us">
+	      <div class="contenidos textos">
+	       <h3><span></span>Los mejores productos</h3>
+	       <p>Contenedores: Si pensamos en el envase desechable para alimentación perfecto lo primero que nos vendrá a la mente 
+	       será la seguridad alimentaria, es decir, asegurarnos con total certeza de que el envase en cuestión 
+	       mantenga inmutables las propiedades de los alimentos, que sea resistente a agentes contaminantes y minimice el impacto ambiental.<p>
+	       <div class="contenidos textos">
+	       <h3><span></span>Los mejores productos</h3>
+	       <p>Vasos: Los vasos de PET están fabricados en tereftalato de polietileno. Su singularidad reside en su ligereza y alta resistencia a los impactos. 
+	       Así pues, los vasos PET son resistentes a posibles fisuras, siendo difícil que se rompan.<p>
+	      </div>
+	      </div>
+	      </section>
+	      <section class="portafolio">
+	          <div class="contenedor">
+	          <h2 class="titulo">compra y venta</h2>
+	          <div class="imagen-port">
+	            <img src="img5.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>carton</p>
+	            </div>
+	          </div>
+	           <div class="imagen-port">
+	            <img src="img4.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>periódico</p>
+	            </div>
+	          </div>
+	           <div class="imagen-port">
+	            <img src="img3.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>pet mixto</p>
+	            </div>
+	          </div>
+	           <div class="imagen-port">
+	            <img src="img2.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>pet cristal</p>
+	            </div>
+	          </div>
+	           <div class="imagen-port">
+	            <img src="img6.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>magazine</p>
+	            </div>
+	          </div>
+	          <div class="imagen-port">
+	            <img src="img7.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>primera blanca</p>
+	            </div>
+	           </div>
+	           <div class="imagen-port">
+	            <img src="img8.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>archivo blanco de 1era</p>
+	            </div>
+	           </div>
+	           <div class="imagen-port">
+	            <img src="img9.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>archivo blanco de 2da. 
+	              80/20</p>
+	            </div>
+	           </div>
+	           <div class="imagen-port">
+	            <img src="img0.jpg" alt="">
+	            <div class="hover-galeria">
+	              <img src=""alt="">
+	              <p>libro</p>
+	            </div>
+	           </div>
+	        </section>
+	        <section class="clientes contenedor">
+	        <h2 class="titulo"<que dicen nuestros clientes</h2>
+	        <div class="card">
+	          <img src="img/face1.jpg" alt="">
+	          <div class="contenido-texto-card">
+	           <h4>EMPRESA DE RECILCADOS COMPROMETIDOS CON EL MEDIO AMBIENTE</h4>
+	           <p></p>
+	        </div>
+	        </section>
+	        <section class="about-services">
+	         <div class="contenedor">
+	         <h2 class="titulo">nuestros servicios</h2>
+	         <div class"servicio-cont">
+	         <div class="servicio-ind"
+	           <img src="img/ilustracion1.svg" alt=""
+	            <h3>name</h3>
+	            <p>lorem10</p>
+	         </div>
+	          <div class="servicio-ind"
+	           <img src="img/ilustracion2.svg" alt=""
+	            <h3>name</h3>
+	            <p>lorem10</p>
+	         </div>
+	          <div class="servicio-ind"
+	           <img src="img/ilustracion3.svg" alt=""
+	            <h3>name</h3>
+	            <p>lorem10</p>
+	         </div>
+	  </main>
+	  <foter>
+	   <div class="contenedor-footer">
+	      <div class="content-foo">
+	        <h4>phone</h4>
+	        <p>(55) 4347 7415
+	(55) 4192 1651</p>
+	   </div>
+	  </foter>
+	</body>
+	</html>
