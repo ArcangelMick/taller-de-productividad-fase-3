@@ -29,6 +29,15 @@ LANZADOR- ZUBE
 
 HERRAMIENTAS ALTERNATIVAS- NOTAS DE TEXTO
 
+# CONTRIBUCIÓN
+clonar el repositorio Git
+Primero copiarás la URL del respositorio remoto
+Luego abrirás una ventana de terminal, para situarte sobre la carpeta del proyecto. 
+Es recomendable crear ya directamente una carpeta con el nombre del proyecto que se está clonando, o cualquier otro nombre.
+Instalar las dependencias
+Habitualmente los desarrollos de Git tienen ignoradas las dependencias mediante el archivo .gitignore, por ello es importante que las instalemos de nuevo en el repositorio clon, en local.
+Una vez modificado el código en local querer subir los cambios al repositorio remoto. Es algo muy sencillo, ya que al clonar el repositorio en local está asociado el origen remoto desde donde se extrajo.
+
 # AUTORES
 Arcangel Miguel Tolentino Martinez- Desarrollo/Documentación
 
