@@ -1,7 +1,21 @@
 # PÁGINA WEB PARA REXMEX
+
+# DESCRIPCION 
 Esta página web fue creada para la empresa REXMEX
 con el objetivo de que la empresa tenga una alternativa de ver sus productos en linea y sus clientes potenciales también.
 además de poder atraer más clientes a esta empresa.
+
+# PROBLEMA IDENTIFICADO
+La empresa desde sus inicios ha tenido problemas con la publicación de sus productos en una web confiable, actualmente cuenta
+con una página web que maneja los datos relacionados con la empresa y los productos que maneja.
+
+# SOLUCIÓN
+La solución que habiamos ofrecido al principio a la empresa, fue el de crear una app que mostrara los productos de la empresa, así como también que se manejara el proceso de entrada y salida del material con el que se trabaja.
+Nos fue dificil desarrollar la aplicación y además la empresa quiso que mejor desarrollaramos una página web donde estuvieran los productos y servicios que se ofrecen. Esto como una manera de ayudarnos con el proyecto y que nosotros le ayudaramos también a ellos.
+
+# ARQUITECTURA
+La arquitectura de la página web
+está creado con el programa Visual Studio.
 
 # PREREQUISITOS
 se necesita tener una computadora con sistema operativo windows o ios, que tenga instalado un navegador ya sea Google Chrome o Mozilla Firefox.
