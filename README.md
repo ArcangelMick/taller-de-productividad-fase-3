@@ -17,6 +17,8 @@ HERRAMIENTAS ALTERNATIVAS- NOTAS DE TEXTO
 
 # AUTORES
 Arcangel Miguel Tolentino Martinez- Desarrollo/Documentación
+
+
 Daniel Rivas López- Desarrollo
 
 # CONCLUSIONES
