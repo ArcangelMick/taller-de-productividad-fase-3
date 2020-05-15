@@ -10,15 +10,17 @@ comenzar a navegar en la página y ver los puntos importantes de la empresa.
 
 # CONSTRUIDO CON 
 ESTRUCTURA-VISUAL STUDIO
+
 LANZADOR- ZUBE
-herramientas alternativas- NOTAS DE TEXTO
+
+HERRAMIENTAS ALTERNATIVAS- NOTAS DE TEXTO
 
 # AUTORES
 Arcangel Miguel Tolentino Martinez- Desarrollo/Documentación
 Daniel Rivas López- Desarrollo
 
 # CONCLUSIONES
-durante el desarrollo hubo algunos inconvenientes, que aún faltan por arreglarse.
+Durante el desarrollo hubo algunos inconvenientes, que aún faltan por arreglarse.
 La empresa decidió que al final una aplicación no era tan necesario, y, por lo tanto, nos 
 pidieron realizar en su lugar una página web que tuviera todo lo relacionado con la empresa y sus productos.
 
